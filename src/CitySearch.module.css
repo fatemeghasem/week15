@@ -1,0 +1,31 @@
+.container input{
+    border: none;
+    font-size: 1.2rem;
+    margin: 20px 30px;
+    color:blue;
+    outline: none;
+    border-radius: 25px;
+    padding: 20px 10px;
+    box-shadow: 8px 8px 8px #d1cbd1,
+    -8px -8px 8px #d1cbd1;
+    z-index: 1;
+}
+
+.div{
+    font-size: 1.2rem;
+    padding: 18px 10px;
+    margin:20px 30px;
+    color: rgba(93, 16, 236, 0.164);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.container{
+    position: relative;
+}
+
+body{
+    background-color: #c9ebe8;
+}
